@@ -6,6 +6,11 @@
 <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
 
+
+
+
+
+
 * 💡 Hashtag that describes me **`#DevOpsPro`**
 * 💬 Ask me about **DevOps, Ivanti End Point Management, SCCM, Intune, Patch Management, End User Computing, Networking, Troubleshoot, Cloud Computing (Microsoft Azure, AWS), Kubernetes, Python, Linux \& Windows System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Web Services, MongoDB, MySQL, SQL, React.js, HTML, CSS, Java, C++, Data Structures, C (Programming Language)**
 * 📝 I'm regularly learning the new things.
