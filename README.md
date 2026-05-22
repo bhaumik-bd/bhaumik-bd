@@ -16,6 +16,8 @@
 
 * 💡 Hashtag that describes me **`#DevOpsPro`**
 * 💬 Ask me about **DevOps, Ivanti End Point Management, SCCM, Intune, Patch Management, End User Computing, Networking, Troubleshoot, Cloud Computing (Microsoft Azure, AWS), Kubernetes, Python, Linux \& Windows System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Web Services, MongoDB, MySQL, SQL, React.js, HTML, CSS, Java, C++, Data Structures, C (Programming Language)**
+
+
 * 📝 I'm regularly learning the new things.
 * 📫 How to reach me **bhaumikdobariya169@gmail.com**
 * ⚡ Fun fact **I am Extrovert**
